@@ -18,8 +18,3 @@ This Repo Contains a Audio Shop WebSite Made Using Reactjs , Context And Framer 
 1. Clone This Repo.
 1. Run `"npm install"` Command
 1. Run `"npm start"` Command
-
-## ScreenShot
-![SiteView](src/assets/SiteViewHome.jpg)
-<br/><br/>
-![SiteView](src/assets/SiteViewCart.jpg)
